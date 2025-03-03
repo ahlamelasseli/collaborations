@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.child{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 50%;
+    
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: x-small;
+}
