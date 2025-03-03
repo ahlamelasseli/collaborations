@@ -22,6 +22,14 @@ body {
     justify-content: center;
 
 }
+    img{
+        width: 50vw;
+        padding-inline: 15vw;
+        border-radius: 50%;
+    }
+    h2{
+        color: brown;
+    }
 
 p {
 
