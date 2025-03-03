@@ -1,19 +1,32 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background-color: black;
 }
-.child{
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.child {
     width: 200px;
     height: 200px;
     background-color: brown;
     border-radius: 50%;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
-p{
+
+p {
+
     text-align: center;
     color: white;
-    font-size: x-small;
+    font-size: 10px;
+
 }
